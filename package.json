@@ -1,6 +1,4 @@
 {
-    "name": "Laravel5.4 + Angular4",
-    "version": "1.0.0",
     "private": true,
     "scripts": {
         "prod": "gulp --production",
