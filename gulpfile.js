@@ -27,11 +27,12 @@ elixir(function(mix) {
 
     .typescript("resources/assets/typescript/", "public/app", {
         "target": "es5",
-        "module": "system",
+        "module": "commonjs",
         "moduleResolution": "node",
         "sourceMap": true,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
+        "lib": ["es2017", "dom"],
         "removeComments": false,
         "noImplicitAny": false,
     });
