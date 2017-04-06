@@ -14,7 +14,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-## Laravel 5.4 and Angular 4
+# Laravel 5.4 and Angular 4 TypeScript2 
 
 ![animation](https://cloud.githubusercontent.com/assets/5789262/22433240/4d6effe8-e74a-11e6-8c38-3cf9f6a2fdca.gif)
 
